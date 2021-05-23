@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "USERS": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "PROFILES": {
+    "name": "typicode",
+  },
 }
